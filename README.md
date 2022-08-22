@@ -6,23 +6,22 @@
 - Collateral Inclusive NFT ( Burn NFT to redeem collateral )
 - Intelectual Property
 
-
+-------
 # Why 
 
 
+-------
+## What is Protocol Owned Liquidity. What is NFT Owned Liquidity. 
 
-## What is Protocol Owned Liquidity. WHat is NFT Owned Liquidity. 
 
-
-
+-------
 ## How to assure NFT values 
 
 
 
-## 
 
 
-----
+-------
 
 # What we have done, by what technologies. 
 
