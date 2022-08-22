@@ -1,26 +1,31 @@
-go mod init
-go mod tidy
-go get github.com/gofiber/fiber/v2
+# Why 
 
 
-gow run main.go
+# What 
 
 
------
-for amd64
-docker build . -f Dockerfile -t rakd/twinkle-img-server:tagname    
-docker push rakd/twinkle-img-server:tagname
-docker pull rakd/twinkle-img-server
-docker run -p 80:3000 -d -it rakd/twinkle-img-server 
+# What is Protocol Owned Liquidity. WHat is NFT Owned Liquidity. 
 
 
+# How to assure NFT values 
 
-https://imgapi.twinkle.cat/img/cat/png/19/4/c/3/1
-https://imgapi.twinkle.cat/img/cat/png/5/6/s/6/1
-https://imgapi.twinkle.cat/img/cat/png/1/10/m/1/1
-https://imgapi.twinkle.cat/img/cat/png/5/19/z/1/1
 
-https://imgapi.twinkle.cat/img/cat/jpg/9/3/c/3/1
-https://imgapi.twinkle.cat/img/cat/jpg/8/2/s/6/4
-https://imgapi.twinkle.cat/img/cat/jpg/6/14/m/6/2
-https://imgapi.twinkle.cat/img/cat/jpg/7/9/c/5/3
+# What we have done, by what technologies. 
+
+- [x] Burn NFT to redeem collateral. 
+- [x] Deposit & Protocol Owned Liquidity ( NFT Owned Liquidity ) 
+ - Solidity, *Alchemy* 
+- [x] Random image Server for gaming logics. https://imgapi.twinkle.cat/ 
+ - *AWS, ECR, Cloudbuild, CodeCommit, EC2*, Golang/Fiber,
+- [x] Simple Landing page. Deployed to https://twinkle.cat/ 
+- [x] Playground. Deployed to https://twinkle.cat/playground 
+ - ReactJS / Vite / Chakra
+- [x] Cute Cats images https://imgapi.twinkle.cat/  
+- [x] Draft Document. http://docs.twinkle.cat/ 
+- [x] Domain. twinkle.cat 
+- [x] Twitter / Medium accounts. https://discord.com/invite/SrWgAZdpDb  https://twitter.com/twinkledaonft 
+- [] Feed to Earn. ( User rewards for Protocol Owned Liquidity )
+- [] Equipments. 
+- [] NFT Staking 
+- etc 
+
