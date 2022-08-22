@@ -30,7 +30,7 @@
 - [x] Deposit & Protocol Owned Liquidity ( NFT Owned Liquidity ) 
  - Solidity, *Alchemy* 
 - [x] Random image Server for gaming logics. https://imgapi.twinkle.cat/ 
- - *AWS, ECR, Cloudbuild, CodeCommit, EC2*, Golang/Fiber,
+ - *AWS, ECR, Cloudbuild, CodeCommit, EC2*, Golang/Fiber, etc 
 - [x] Simple Landing page. Deployed to https://twinkle.cat/ 
 - [x] Playground. Deployed to https://twinkle.cat/playground 
  - ReactJS / Vite / Chakra
