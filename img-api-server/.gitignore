@@ -1,0 +1,6 @@
+dist/*
+dist/
+dist/app
+dist/myapp
+.evn
+main

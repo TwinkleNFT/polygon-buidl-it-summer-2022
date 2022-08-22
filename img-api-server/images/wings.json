@@ -1,0 +1,40 @@
+{
+    "items":[
+        {
+            "id": 0,
+            "name": "None"
+        },
+    {
+        "id": 1,
+        "name": "Angel Gold"
+    },
+    {
+        "id": 2,
+        "name": "Angel White"
+    },
+    {
+        "id": 3,
+        "name": "Butterfly Green"
+    },
+    {
+        "id": 4,
+        "name": "Devil Red"
+    },
+    {
+        "id": 5,
+        "name": "Jewel Lightblue"
+    },
+    {
+        "id": 6,
+        "name": "Noble White"
+    },
+    {
+        "id": 7,
+        "name": "Zombie White"
+    },
+    {
+        "id": 8,
+        "name": "Zombie2 Whiteblack"
+    }
+]
+}

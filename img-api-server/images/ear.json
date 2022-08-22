@@ -1,0 +1,28 @@
+{
+    "items":[
+        {
+            "id": 0,
+            "name": "None"
+        },
+    {
+        "id": 1,
+        "name": "Glasses Gold"
+    },
+    {
+        "id": 2,
+        "name": "Glasses Monocle Gold"
+    },
+    {
+        "id": 3,
+        "name": "Pierce Devil Gold"
+    },
+    {
+        "id": 4,
+        "name": "Pierce King Whitegold"
+    },
+    {
+        "id": 5,
+        "name": "Pierce Noble violet"
+    }
+]
+}

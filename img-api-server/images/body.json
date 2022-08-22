@@ -1,0 +1,126 @@
+{
+    "items":[
+        {
+            "id": 0,
+            "name": "White"
+        },
+        {
+            "id": 1,
+            "name": "White"
+        },
+    {
+        "id": 2,
+        "name": "Creamwhite"
+    },
+    {
+        "id": 3,
+        "name": "Gray"
+    },
+    {
+        "id": 4,
+        "name": "Black"
+    },
+    {
+        "id": 5,
+        "name": "Lightgreen"
+    },
+    {
+        "id": 6,
+        "name": "Green"
+    },
+    {
+        "id": 7,
+        "name": "Blue"
+    },
+    {
+        "id": 8,
+        "name": "Lightblue"
+    },
+    {
+        "id": 9,
+        "name": "Lightpurple"
+    },
+    {
+        "id": 10,
+        "name": "Purple"
+    },
+    {
+        "id": 11,
+        "name": "Orange"
+    },
+    {
+        "id": 12,
+        "name": "Red"
+    },
+    {
+        "id": 13,
+        "name": "Pink"
+    },
+    {
+        "id": 14,
+        "name": "Lightbrown"
+    },
+    {
+        "id": 15,
+        "name": "Calico White Black Brown"
+    },
+    {
+        "id": 16,
+        "name": "Calico White Yellow Orange"
+    },
+    {
+        "id": 17,
+        "name": "Calico White Lightgreen Green"
+    },
+    {
+        "id": 18,
+        "name": "Calico White Lightblue Blue"
+    },
+    {
+        "id": 19,
+        "name": "Calico White Pink Red"
+    },
+    {
+        "id": 20,
+        "name": "Calico White Lightpurple Purple"
+    },
+    {
+        "id": 21,
+        "name": "Calico White Gray Black"
+    },
+    {
+        "id": 22,
+        "name": "Striped White Gray"
+    },
+    {
+        "id": 23,
+        "name": "Striped White Purple"
+    },
+    {
+        "id": 24,
+        "name": "Striped White Pink"
+    },
+    {
+        "id": 25,
+        "name": "Striped Lightgreene Green"
+    },
+    {
+        "id": 26,
+        "name": "Striped Lightblue Blue"
+    },
+    {
+        "id": 27,
+        "name": "Striped Cream Orange"
+    },
+    {
+        "id": 28,
+        "name": "Striped Pink White"
+    },
+    {
+        "id": 29,
+        "name": "Striped Black White"
+    }
+
+    
+]
+}

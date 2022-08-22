@@ -1,0 +1,45 @@
+{
+    "items":[
+
+        {
+            "id": 0,
+            "name": "None"
+        },
+        {
+        "id": 1,
+        "name": "Collar Devil Blackgold"
+    },
+    {
+        "id": 2,
+        "name": "Collar Spirit Red"
+    },
+    {
+        "id": 3,
+        "name": "Fur Jewelry Whitegold"
+    },
+    {
+        "id": 4,
+        "name": "Necklace Angel Gold"
+    },
+    {
+        "id": 5,
+        "name": "Scarf Fairy Greengold"
+    },
+    {
+        "id": 6,
+        "name": "Scarf King Whitegold"
+    },
+    {
+        "id": 7,
+        "name": "Scarf Noble White"
+    },
+    {
+        "id": 8,
+        "name": "Scarf Token Silverblue"
+    },
+    {
+        "id": 9,
+        "name": "Scarf Zombie Red-Green"
+    }
+]
+}

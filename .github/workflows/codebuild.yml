@@ -1,0 +1,36 @@
+name: sync_and_build
+
+on: [push, delete]
+
+jobs:
+  codecommit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - uses: pixta-dev/repository-mirroring-action@v1
+        with:
+          target_repo_url:
+            ssh://git-codecommit.ap-south-1.amazonaws.com/v1/repos/twinkle-img-server
+            #https://git-codecommit.ap-south-1.amazonaws.com/v1/repos/dockertest
+
+          ssh_private_key: ${{ secrets.TWINKLE_CODECOMMIT_SSH_PRIVATE_KEY  }}
+          ssh_username: ${{ secrets.TWINKLE_CODECOMMIT_SSH_PRIVATE_KEY_ID }}
+  codebuild:
+    #ref: https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions
+    needs: codecommit
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v1
+
+        with:
+          aws-access-key-id: ${{ secrets.TWINKLE_AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.TWINKLE_AWS_SECRET_ACCESS_KEY }}
+          aws-region: ap-south-1
+      - name: Run CodeBuild
+        uses: aws-actions/aws-codebuild-run-build@v1
+        with:
+          project-name: twinkle-img-server

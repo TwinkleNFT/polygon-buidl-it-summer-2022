@@ -1,0 +1,95 @@
+{
+    "items":[
+        {
+            "id": 0,
+            "name": "None"
+        },
+    {
+        "id": 1,
+        "name": "Bubble"
+    },
+    {
+        "id": 2,
+        "name": "Butterfly Blue"
+    },
+    {
+        "id": 3,
+        "name": "Butterfly Red"
+    },
+    {
+        "id": 4,
+        "name": "Fire Blue"
+    },
+    {
+        "id": 5,
+        "name": "Fire Red"
+    },
+    {
+        "id": 6,
+        "name": "Fireball Blue"
+    },
+    {
+        "id": 7,
+        "name": "Fireball Red.png"
+    },
+    {
+        "id": 8,
+        "name": "Meteor Blue"
+    },
+    {
+        "id": 9,
+        "name": "Meteor Red"
+    },
+    {
+        "id": 10,
+        "name": "Cherryblossom Blue"
+    },
+    {
+        "id": 11,
+        "name": "Cherryblossom Red"
+    }
+
+    ,
+    {
+        "id": 12,
+        "name": "Shootingstar Blue"
+    },
+    {
+        "id": 13,
+        "name": "Shootingstar Red"
+    },
+    {
+        "id": 14,
+        "name": "Smoke Blue"
+    },
+    {
+        "id": 15,
+        "name": "Smoke Red"
+    },
+    {
+        "id": 16,
+        "name": "Lightning Blue"
+    },
+    {
+        "id": 17,
+        "name": "Lightning Red"
+    }
+
+
+    ,
+    {
+        "id": 18,
+        "name": "Water Blue"
+    },
+    {
+        "id": 19,
+        "name": "Water Red"
+    },
+    {
+        "id": 20,
+        "name": "Firefly Yellow"
+    }
+
+
+]
+}

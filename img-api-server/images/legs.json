@@ -1,0 +1,40 @@
+{
+    "items":[
+        {
+            "id": 0,
+            "name": "None"
+        },
+    {
+        "id": 1,
+        "name": "Anklet Fairy Gold"
+    },
+    {
+        "id": 2,
+        "name": "Anklet Jewelry Greengold"
+    },
+    {
+        "id": 3,
+        "name": "Anklet King Whitegold"
+    },
+    {
+        "id": 4,
+        "name": "Anklet Spirit Red"
+    },
+    {
+        "id": 5,
+        "name": "Anklet Token Silverblue"
+    },
+    {
+        "id": 6,
+        "name": "Bangle Zombie Red-green"
+    },
+    {
+        "id": 7,
+        "name": "Boots Devil Blackgold"
+    },
+    {
+        "id": 8,
+        "name": "Anklet Noble Gold"
+    }
+]
+}
