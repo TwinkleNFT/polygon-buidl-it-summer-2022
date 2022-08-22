@@ -1,14 +1,28 @@
-# Why 
-
 
 # What 
 
+- GameFi 
+- Protocol Owned Liquidity
+- Collateral Inclusive NFT ( Burn NFT to redeem collateral )
+- Intelectual Property
 
-# What is Protocol Owned Liquidity. WHat is NFT Owned Liquidity. 
+
+# Why 
 
 
-# How to assure NFT values 
 
+## What is Protocol Owned Liquidity. WHat is NFT Owned Liquidity. 
+
+
+
+## How to assure NFT values 
+
+
+
+## 
+
+
+----
 
 # What we have done, by what technologies. 
 
@@ -24,8 +38,8 @@
 - [x] Draft Document. http://docs.twinkle.cat/ 
 - [x] Domain. twinkle.cat 
 - [x] Twitter / Medium accounts. https://discord.com/invite/SrWgAZdpDb  https://twitter.com/twinkledaonft 
-- [] Feed to Earn. ( User rewards for Protocol Owned Liquidity )
-- [] Equipments. 
-- [] NFT Staking 
+- [ ] Feed to Earn. ( User rewards for Protocol Owned Liquidity )
+- [ ] Equipments. 
+- [ ] NFT Staking 
 - etc 
 
